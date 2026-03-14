@@ -686,6 +686,6 @@ st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: #666; padding: 10px;">
     <p>💼 HR Interview Practice Bot • Practice makes perfect • All responses are simulated feedback</p>
-    <p style="font-size: 0.8rem;">© 2024 • For practice purposes only. Real interviews may vary.</p>
+    <p style="font-size: 0.8rem;">© 2026 • For practice purposes only. Real interviews may vary.</p>
 </div>
 """, unsafe_allow_html=True)
