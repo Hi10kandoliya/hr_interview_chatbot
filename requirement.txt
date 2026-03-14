@@ -1,0 +1,4 @@
+your-repo/
+│── hr_interview_chatbot.py  # Your main app file
+│── requirements.txt          # Dependencies
+└── README.md                 # Optional
